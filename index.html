@@ -2,155 +2,62 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Portfolio page with animations</title>
-  <script src="https://use.typekit.net/vdk3aep.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'><link rel="stylesheet" href="./style.css">
+  <title>CodePen - JavaScript Search Bar with Harry Potter Characters</title>
+  <link rel="stylesheet" href="./transporting.css">
 
 </head>
 <body>
 <!-- partial:index.partial.html -->
-<div class="outer">
-	<i class="fa fa-arrow-circle-up" id="arrow" aria-hidden="true"></i>
-	<div class="inner">
-		<!--
-		HEADER
-    SECTION
--->
-		<header>
-			<div class="container-fluid clearfix">
-				<div class="row">
-					<i class="fa fa-bars nav-toggle" aria-hidden="true"></i>
-					<nav role="navigation">
-						<i class="fa fa-times nav-toggle" aria-hidden="true"></i>
-						<ul class="list-unstyled" id="nav">
-							<li>
-								<a class="nav-link" href="#intro"><span>About</span></a>
-								<div class="underline"></div>
-							</li>
-							<li>
-								<a class="nav-link" href="#work"><span>Skills</span></a>
-								<div class="underline"></div>
-							</li>
-							<li>
-								<a class="nav-link" href="#portfolio"><span>Portfolio</span></a>
-								<div class="underline"></div>
-							</li>
-							<li>
-								<a class="nav-link" href="#contacts"><span>Contacts</span></a>
-								<div class="underline"></div>
-							</li>
-						</ul>
-					</nav>
-				</div>
-				<h1 class="titanic naked">Hi.</h1>
-			</div>
-		</header>
-
-		<!--
-		INTRODUCTION
-		SECTION
--->
-
-		<main id="main">
-			<div class="container">
-				<div class="row">
-					<div id="intro">
-					<b>  ABOUT ME  </b><br>
-						<h1>My name is sameer motwani. I Believe in self learning and keeps digging out new hacks in new technologies. basic front end developer. A curious learner.</h1> 
-					</div>
-				</div>
-			</div>
-		</main>
-		
-		
-		
-	<main id="main">
-			<div class="container">
-				<div class="row">
-					<div id="intro">
-					<h2>MY WORK</h2>
-						<h1>Hello Currently i am working on my 3 projects, here is my first project which definetly gonna help wholesalers & retailers of bilaspur to collect details of local available transports.</h1> <br>
 <!DOCTYPE html>
-<html>
-<head>
-<style>
-a {
-  color: black;
-}
-</style>
-</head>
-<body>
-
-
-<p><b><a href="default.asp" target="_blank">CLICK HERE</a> <br> for project - 1 </b></p>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Document</title>
+        <link rel="stylesheet" href="app.css" />
+    </head>
+    <body>
+        <div class="container">
+            
+            <div id="searchWrapper">
+                <input
+                    type="text"
+                    name="searchBar"
+                    id="searchBar"
+                    placeholder="search for a area"
+                />
+            </div> <br>
+            <ul id="charactersList"></ul>
+        </div>
+        <script src="app.js"></script>
+    </body>
+</html>
+<!-- partial -->
+  <script  src="./transporting.js"></script>
 
 </body>
-</html>				
-					</div>
-				</div>
-			</div>
-		</main>
-		<!--
-		PORTFOLIO
-    SECTION
--->
+</html>
 
-		<section class="portfolio-sec">
-			<div class="container-fluid">
-				<div class="row">
-					<div class="col-xs-10 col-xs-offset-1">
-						<h2>Portfolio</h2>
-					</div>
-					<div class="col-xs-12">
-						<div id="portfolio">
-							<div class="project">
-							<b>i will add that later</b>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
 
-	</div>
-	<!--
-		FOOTER
-    SECTION
--->
-	<footer>
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-10 col-xs-offset-1">
-					<h2>Get in Touch</h2>
-				</div>
-				<div class="col-xs-12">
-					<div id="contacts">
-						<div class="row">
-							<div class="col-lg-3 col-sm-6">
-								<a class="contact-link awesome" href="#">mail</a>
-							</div>
-							<div class="col-lg-3 col-sm-6">
-								<a class="contact-link awesome" href="#">linkedIn</a>
-							</div>
-							<div class="col-lg-3 col-sm-6">
-								<a class="contact-link awesome" href="#">facebook</a>
-							</div>
-							<div class="col-lg-3 col-sm-6">
-								<a class="contact-link awesome" href="#">freecodecamp</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer>
+
+        
+      </div>
+      <div class="modal-footer">
+       
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 
 </div>
 <!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js'></script>
-<script src='https://codepen.io/meltedlilacs/pen/rFHJs.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.0/jquery.waypoints.min.js'></script><script  src="./script.js"></script>
-
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'></script><script  src="./headscript.js"></script>
+</div>
 </body>
 </html>
