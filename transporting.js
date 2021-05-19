@@ -30,7 +30,7 @@ const displayCharacters = (characters) => {
             return `
             <li class="character">
                 <h2>${character.name}</h2><br> <br> <br> <br>
-                <p>${character.house}</p><br> <br> <br> <br>
+                <p>${character.house}</p><br> 
 				
 				<p> <br>${character.transport1}</p> 
                 
