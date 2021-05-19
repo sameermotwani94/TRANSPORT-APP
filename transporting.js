@@ -16,7 +16,7 @@ searchBar.addEventListener('keyup', (e) => {
 
 const loadCharacters = async () => {
     try {
-        const res = await fetch('https://hunksammy.github.io/2084377289testbysam/transportapi.api');
+        const res = await fetch('https://raw.githubusercontent.com/sameermotwani94/TRANSPORT-APP/main/transportapi.api');
         hpCharacters = await res.json();
         displayCharacters(hpCharacters);
     } catch (err) {
