@@ -34,6 +34,9 @@ const displayCharacters = (characters) => {
 			    <p> <br>${character.transport1}</p> 
 				<p> <br><br>${character.transport2}</p> 
 				<p> <br><br><br>${character.transport3}</p> 
+				<p> <br><br><br><br>${character.transport4}</p> 
+				<p> <br><br><br><br><br>${character.transport5}</p> 
+				<p> <br><br><br><br><br><br>${character.transport6}</p> 
                 
             </li>
         `;
