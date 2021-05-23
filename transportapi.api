@@ -1,196 +1,66 @@
-[{"name": "AKALTARA","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"BALODA BAZAR","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"BANDA KHAR","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"BANKI MONGRA","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"BARADWAR","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"BARTORI","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"BHATAPARA","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"BHATGAON","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"BHILAI BAZAR","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"BILHA","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"BIRRA","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"CHAKKARBHATA","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"CHAMPA","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"CHETMA","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"CHURRI","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"DABHRA","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"DARRI","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"DHARMJAYGARH","house":"CHAND TRANSPORT", 
-"transport1":""},
-
-{"name":"DIPKA","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"GEWRA BASTI","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"GHARGHODA","house":"CHAND TRANSPORT", 
-"transport1":""},
-
-{"name":"GIDHORI","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"HARDIBAZAR","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"HASDOH","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"JAIJAPUR","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"JAILGAON","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"JAIRAM NAGAR","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"JAMNIPALI","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"JANJGIR","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"JASHPUR","house":"CHAND TRANSPORT", 
-"transport1":""},
-
-{"name":"JHABAR","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"KANSABEL","house":"CHAND TRANSPORT", 
-"transport1":""},
-
-{"name":"KARHI BAZAR","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"KASHDOL","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"KATGHORA","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"KEERA","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"KOTBA ","house":"CHAND TRANSPORT", 
-"transport1":""},
-
-{"name":"KUNKURI","house":"CHAND TRANSPORT", 
-"transport1":""},
-
-{"name":"KUSMUNDA","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"LAILUNGA","house":"CHAND TRANSPORT", 
-"transport1":""},
-
-{"name":"LAWAN","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"MALHAR","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"MALKHAROD","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"MASTURI","house":"JIVESH TRANSPORT"},
-
-{"name":"MULMULA","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"MUNGELI","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"NEWRA","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"NUNERA","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"PACHPEDI","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"PAMGARH","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"PANDARIYA","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"PANDATARAI","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"PATHAL GAON","house":"CHAND TRANSPORT", 
-"transport1":""},
-
-{"name":"PATHARIYA","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"RACHKHAMBA","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"RAHOD","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"RALIYA","house":"ANIL COACH", 
-"transport1":""},
-
-{"name":"SAKTI","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"SARAGAON","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"SARANGARH","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"SARGAON","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"SARSIWA","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"SHIVRINARAYAN","house":"JIVESH TRANSPORT", 
-"transport1":""},
-
-{"name":"TAKHATPUR","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"TILDA","house":"JAI MATA DI", 
-"transport1":""},
-
-{"name":"TIWARTA","house":"ANIL COACH", 
-"transport1":""}]
+[{"name":"	AKALTARA	",	"house":"	JIVESH	"},
+{"name":"	BARADWAR	",	"house":"	JIVESH	"},
+{"name":"	BHATGAON	",	"house":"	JIVESH	"},
+{"name":"	BIRRA	",	"house":"	JIVESH	"},
+{"name":"	CHAMPA	",	"house":"	JIVESH	"},
+{"name":"	DABRA	",	"house":"	JIVESH	"},
+{"name":"	GIDHORI	",	"house":"	JIVESH	"},
+{"name":"	HASODH	",	"house":"	JIVESH	"},
+{"name":"	JAIJAPUR	",	"house":"	JIVESH	"},
+{"name":"	JAIRAM NAGAR	",	"house":"	JIVESH	"},
+{"name":"	KERRA	",	"house":"	JIVESH	"},
+{"name":"	MALHAR	",	"house":"	JIVESH	"},
+{"name":"	MALKHARODA	",	"house":"	JIVESH	"},
+{"name":"	MASTURI	",	"house":"	JIVESH	"},
+{"name":"	MULMULA	",	"house":"	JIVESH	"},
+{"name":"	NAILA JANJGIR	",	"house":"	JIVESH	"},
+{"name":"	NARIYARA	",	"house":"	JIVESH	"},
+{"name":"	PACHPEDI	",	"house":"	JIVESH	"},
+{"name":"	PAMGARH	",	"house":"	JIVESH	"},
+{"name":"	RAHOD	",	"house":"	JIVESH	"},
+{"name":"	SAKTI	",	"house":"	JIVESH	"},
+{"name":"	SARAGAON	",	"house":"	JIVESH	"},
+{"name":"	SARANAGARH	",	"house":"	JIVESH	"},
+{"name":"	SARSIWA	",	"house":"	JIVESH	"},
+{"name":"	SHIVRINARAYAN	",	"house":"	JIVESH	"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"},
+{"name":"		",	"house":"		"}]
