@@ -33,6 +33,8 @@ const displayCharacters = (characters) => {
                 <p>${character.house}</p><br> 
 				
 				<p> <br>${character.transport1}</p> 
+				<p> <br>${character.transport2}</p> 
+				<p> <br>${character.transport3}</p> 
                 
             </li>
         `;
