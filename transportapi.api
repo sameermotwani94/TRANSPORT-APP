@@ -1,62 +1,302 @@
 [{"name":"AKALTARA","house":"JIVESH"},
+{"name":"AKALTARA","house":"K.K LOGISTIC"},
+{"name":"AKALTARA","house":"GYATRI TRANSPORT"},
+{"name":"AKALTARA","house":"CHHATTISGARH TRANSPORT"},
 {"name":"AMARKANTAK","house":"NAIDU"},
+{"name":"AMBIKAPUR","house":"K.K LOGISTIC"},
+{"name":"AMBIKAPUR","house":"DAMRU  TRANSPORT"},
+{"name":"AMLAI","house":"YADAV TRANSPORT"},
+{"name":"AMLAI","house":"GURUNANAK TRANSPORT"},
 {"name":"ANNUPUR","house":"NAIDU"},
+{"name":"ANNUPUR","house":"YADAV TRANSPORT"},
+{"name":"ANNUPUR","house":"GURUNANAK TRANSPORT"},
+{"name":"ARJUNI","house":"YASH TRANSPORT"},
 {"name":"BAIKUNDPUR","house":"NAIDU"},
+{"name":"BAIKUNDPUR","house":"YADAV TRANSPORT"},
+{"name":"BAIKUNDPUR","house":"K.K LOGISTIC"},
 {"name":"BALCO","house":"MAHAMAYA TRANSPORT"},
+{"name":"BALCO","house":"SHUKLA TRANSPORT"},
+{"name":"BALODA","house":"ANIL COACH"},
 {"name":"BALODABAZAR","house":"NAIDU"},
+{"name":"BALODABAZAR","house":"JAI MATA DI"},
+{"name":"BALODABAZAR","house":"YASH TRANSPORT"},
+{"name":"BANKI MONGRA","house":"SHUKLA TRANSPORT"},
 {"name":"BARADWAR","house":"JIVESH"},
+{"name":"BARADWAR","house":"YASH TRANSPORT"},
+{"name":"BARADWAR","house":"SANTOSHI TRANSPORT"},
+{"name":"BARELA","house":"SALUJA TRANSPORT"},
 {"name":"BARPALI","house":"MAHAMAYA TRANSPORT"},
 {"name":"BELPAHAD","house":"POOJA TRANSPORT"},
+{"name":"BELTARA","house":"DUBEY  TRANSPORT"},
+{"name":"BELTARA","house":"SHUKLA TRANSPORT"},
+{"name":"BELTARA","house":"SHARDA TRANSPORT"},
 {"name":"BHATAPARA","house":"NAIDU"},
+{"name":"BHATAPARA","house":"JAI MATA DI"},
+{"name":"BHATAPARA","house":"YASH TRANSPORT"},
 {"name":"BHATGAON","house":"JIVESH"},
 {"name":"BIJURI","house":"NAIDU"},
+{"name":"BIJURI","house":"SHRADDHA TRANSPORT"},
+{"name":"BILHA","house":"JAI MATA DI"},
+{"name":"BILHA","house":"CHHATTISGARH TRANSPORT"},
 {"name":"BIRRA","house":"JIVESH"},
+{"name":"BIRRA","house":"G.P.S TRANSPORT"},
+{"name":"BODLA","house":"SALUJA TRANSPORT"},
 {"name":"BRAJRAJ NAGAR","house":"POOJA TRANSPORT"},
 {"name":"BURHAR","house":"NAIDU"},
+{"name":"BURHAR","house":"YADAV TRANSPORT"},
+{"name":"BURHAR","house":"SHRADDHA TRANSPORT"},
+{"name":"BURHAR","house":"GURUNANAK TRANSPORT"},
+{"name":"CHAKKARBHATA","house":"JAI MATA DI"},
+{"name":"CHAKKARBHATA","house":"CHHATTISGARH TRANSPORT"},
 {"name":"CHAMPA","house":"JIVESH"},
 {"name":"CHAMPA","house":"NAIDU"},
+{"name":"CHAMPA","house":"YASH TRANSPORT"},
+{"name":"CHAMPA","house":"K.K LOGISTIC"},
+{"name":"CHAMPA","house":"GYATRI TRANSPORT"},
+{"name":"CHAMPA","house":"DAMRU  TRANSPORT"},
+{"name":"CHETMA ","house":"SHARDA TRANSPORT"},
+{"name":"CHIRMIRI","house":"K.K LOGISTIC"},
+{"name":"CHURRI","house":"SHUKLA TRANSPORT"},
 {"name":"DABRA","house":"JIVESH"},
 {"name":"DARRI","house":"MAHAMAYA TRANSPORT"},
+{"name":"DARRI","house":"SHUKLA TRANSPORT"},
+{"name":"DHANIYA","house":"ANIL COACH"},
 {"name":"DHANPURI","house":"NAIDU"},
+{"name":"DHANPURI","house":"YADAV TRANSPORT"},
+{"name":"DHANPURI","house":"GURUNANAK TRANSPORT"},
+{"name":"DHARAMJAYGARH","house":"CHAND TRANSPORT"},
+{"name":"DIPKA","house":"SHUKLA TRANSPORT"},
 {"name":"GANIYARI","house":"RAJA TRANSPORT"},
+{"name":"GEWRA / KUSMUNDA","house":"SHUKLA TRANSPORT"},
+{"name":"GHARGHODA","house":"CHAND TRANSPORT"},
 {"name":"GIDHORI","house":"JIVESH"},
+{"name":"GIDHORI","house":"G.P.S TRANSPORT"},
+{"name":"GORELLA","house":"SHRADDHA TRANSPORT"},
+{"name":"GUDI","house":"ANIL COACH"},
+{"name":"HARDIBAZAR","house":"SHUKLA TRANSPORT"},
 {"name":"HASODH","house":"JIVESH"},
+{"name":"HASODH","house":"G.P.S TRANSPORT"},
+{"name":"HATHBANDH","house":"YASH TRANSPORT"},
+{"name":"JAGDALPUR","house":"DAMRU  TRANSPORT"},
 {"name":"JAIJAPUR","house":"JIVESH"},
+{"name":"JAIJAPUR","house":"G.P.S TRANSPORT"},
 {"name":"JAILGAON","house":"MAHAMAYA TRANSPORT"},
+{"name":"JAILGAON","house":"SHUKLA TRANSPORT"},
 {"name":"JAIRAM NAGAR","house":"JIVESH"},
 {"name":"JAITHARI","house":"NAIDU"},
+{"name":"JAITHARI","house":"YADAV TRANSPORT"},
+{"name":"JAITHARI","house":"SHRADDHA TRANSPORT"},
+{"name":"JAITHARI","house":"GURUNANAK TRANSPORT"},
 {"name":"JAMNIPALI","house":"MAHAMAYA TRANSPORT"},
+{"name":"JAMNIPALI","house":"SHUKLA TRANSPORT"},
+{"name":"JANJGIR","house":"K.K LOGISTIC"},
+{"name":"JANJI","house":"ANIL COACH"},
+{"name":"JARVE","house":"ANIL COACH"},
+{"name":"KANSABEL","house":"CHAND TRANSPORT"},
+{"name":"KATGHORA","house":"SHARDA TRANSPORT"},
+{"name":"KATGORA","house":"SHUKLA TRANSPORT"},
+{"name":"KAWARDHA","house":"YASH TRANSPORT"},
+{"name":"KAWARDHA","house":"SALUJA TRANSPORT"},
+{"name":"KAWARDHA","house":"K.K LOGISTIC"},
 {"name":"KERRA","house":"JIVESH"},
+{"name":"KERRA","house":"G.P.S TRANSPORT"},
+{"name":"KHAMARIYA","house":"ANIL COACH"},
+{"name":"KHARODA","house":"DAMRU  TRANSPORT"},
+{"name":"KHARSIYA","house":"YASH TRANSPORT"},
+{"name":"KHARSIYA","house":"K.K LOGISTIC"},
+{"name":"KHARSIYA","house":"SANTOSHI TRANSPORT"},
 {"name":"KORBA","house":"MAHAMAYA TRANSPORT"},
+{"name":"KORBA","house":"SHUKLA TRANSPORT"},
+{"name":"KORBA","house":"K.K LOGISTIC"},
+{"name":"KORBA","house":"GYATRI TRANSPORT"},
+{"name":"KORBA","house":"NEW PRAGATI TRANSPORT"},
+{"name":"KORBA","house":"DAMRU  TRANSPORT"},
 {"name":"KOTA ","house":"RAJA TRANSPORT"},
+{"name":"KOTBA ","house":"CHAND TRANSPORT"},
 {"name":"KOTMA","house":"NAIDU"},
+{"name":"KOTMA","house":"SHRADDHA TRANSPORT"},
 {"name":"KOTMI","house":"NAIDU"},
+{"name":"KOTMI","house":"SHRADDHA TRANSPORT"},
+{"name":"KUNKURI","house":"CHAND TRANSPORT"},
+{"name":"LAILUNGA","house":"CHAND TRANSPORT"},
+{"name":"LALPUR","house":"SHRADDHA TRANSPORT"},
+{"name":"LAWAN KASHDOL","house":"JAI MATA DI"},
+{"name":"LAWAN KASHDOL","house":"YASH TRANSPORT"},
 {"name":"MADWARANI","house":"MAHAMAYA TRANSPORT"},
+{"name":"MAHASAMUND","house":"DAMRU  TRANSPORT"},
 {"name":"MALHAR","house":"JIVESH"},
 {"name":"MALKHARODA","house":"JIVESH"},
 {"name":"MANENDRAGARH","house":"NAIDU"},
+{"name":"MANENDRAGARH","house":"SHRADDHA TRANSPORT"},
+{"name":"MANENDRAGARH","house":"K.K LOGISTIC"},
 {"name":"MARWAHI","house":"NAIDU"},
+{"name":"MARWAHI","house":"SHRADDHA TRANSPORT"},
 {"name":"MASTURI","house":"JIVESH"},
+{"name":"MASTURI","house":"COOLIE BROTHERS"},
+{"name":"MASTURI","house":"G.P.S TRANSPORT"},
+{"name":"MOPKA","house":"ANIL COACH"},
 {"name":"MULMULA","house":"JIVESH"},
+{"name":"MUNGELI","house":"JAI MATA DI"},
+{"name":"MUNGELI","house":"YASH TRANSPORT"},
+{"name":"MUNGELI","house":"K.K LOGISTIC"},
 {"name":"NAILA JANJGIR","house":"JIVESH"},
 {"name":"NAILA JANJGIR","house":"NAIDU"},
+{"name":"NAILA JANJGIR","house":"YASH TRANSPORT"},
+{"name":"NAILA JANJGIR","house":"GYATRI TRANSPORT"},
+{"name":"NAILA JANJGIR","house":"DAMRU  TRANSPORT"},
 {"name":"NARIYARA","house":"JIVESH"},
 {"name":"NIHARIKA","house":"MAHAMAYA TRANSPORT"},
 {"name":"PACHPEDI","house":"JIVESH"},
+{"name":"PAHARIYA","house":"ANIL COACH"},
+{"name":"PALI","house":"DUBEY  TRANSPORT"},
+{"name":"PALI","house":"SHUKLA TRANSPORT"},
+{"name":"PALI","house":"SHARDA TRANSPORT"},
 {"name":"PAMGARH","house":"JIVESH"},
+{"name":"PAMGARH","house":"COOLIE BROTHERS"},
+{"name":"PAMGARH","house":"G.P.S TRANSPORT"},
+{"name":"PANDARIYA","house":"JAI MATA DI"},
+{"name":"PANDARIYA","house":"YASH TRANSPORT"},
+{"name":"PANDARIYA","house":"K.K LOGISTIC"},
+{"name":"PANDATARAI","house":"DUBEY  TRANSPORT"},
+{"name":"PANDATARAI","house":"YASH TRANSPORT"},
+{"name":"PANDATARAI","house":"SALUJA TRANSPORT"},
 {"name":"PANTORA","house":"MAHAMAYA TRANSPORT"},
+{"name":"PATHALGAON","house":"CHAND TRANSPORT"},
 {"name":"PENDRA","house":"NAIDU"},
+{"name":"PENDRA","house":"SHRADDHA TRANSPORT"},
+{"name":"PIPARIYA","house":"SALUJA TRANSPORT"},
+{"name":"PODI","house":"DUBEY  TRANSPORT"},
+{"name":"PODI","house":"YASH TRANSPORT"},
+{"name":"PODI","house":"SALUJA TRANSPORT"},
 {"name":"RAHOD","house":"JIVESH"},
+{"name":"RAHOD","house":"COOLIE BROTHERS"},
+{"name":"RAHOD","house":"G.P.S TRANSPORT"},
 {"name":"RAIGARH","house":"POOJA TRANSPORT"},
+{"name":"RAIGARH","house":"K.K LOGISTIC"},
+{"name":"RAIGARH","house":"SANTOSHI TRANSPORT"},
+{"name":"RAIPUR","house":"DAMRU  TRANSPORT"},
 {"name":"RAJENDRA GRAM","house":"NAIDU"},
 {"name":"RAJNAGAR","house":"NAIDU"},
+{"name":"RATANPUR","house":"DUBEY  TRANSPORT"},
+{"name":"RATANPUR","house":"SHUKLA TRANSPORT"},
+{"name":"RATANPUR","house":"SHARDA TRANSPORT"},
 {"name":"SAKTI","house":"JIVESH"},
 {"name":"SAKTI","house":"POOJA TRANSPORT"},
+{"name":"SAKTI","house":"YASH TRANSPORT"},
+{"name":"SAKTI","house":"K.K LOGISTIC"},
+{"name":"SAKTI","house":"SANTOSHI TRANSPORT"},
 {"name":"SARAGAON","house":"JIVESH"},
 {"name":"SARAGBUNDIA","house":"MAHAMAYA TRANSPORT"},
 {"name":"SARANAGARH","house":"JIVESH"},
+{"name":"SARGAON","house":"JAI MATA DI"},
+{"name":"SARGAON","house":"CHHATTISGARH TRANSPORT"},
 {"name":"SARSIWA","house":"JIVESH"},
 {"name":"SHADOL","house":"NAIDU"},
+{"name":"SHADOL","house":"YADAV TRANSPORT"},
+{"name":"SHADOL","house":"SHRADDHA TRANSPORT"},
+{"name":"SHADOL","house":"GURUNANAK TRANSPORT"},
 {"name":"SHIVRINARAYAN","house":"JIVESH"},
+{"name":"SHIVRINARAYAN","house":"COOLIE BROTHERS"},
+{"name":"SHIVRINARAYAN","house":"G.P.S TRANSPORT"},
+{"name":"SILLI","house":"DUBEY  TRANSPORT"},
+{"name":"SIPAT","house":"ANIL COACH"},
+{"name":"SURAJPUR","house":"K.K LOGISTIC"},
+{"name":"SURAJPUR","house":"DAMRU  TRANSPORT"},
+{"name":"SUTTARA","house":"SHARDA TRANSPORT"},
+{"name":"TAKHATPUR","house":"JAI MATA DI"},
+{"name":"TAKHATPUR","house":"YASH TRANSPORT"},
+{"name":"TAKHATPUR","house":"SALUJA TRANSPORT"},
+{"name":"TAKHATPUR","house":"K.K LOGISTIC"},
+{"name":"TILDA","house":"YASH TRANSPORT"},
 {"name":"URGA","house":"MAHAMAYA TRANSPORT"},
-{"name":"VENKAT NAGAR","house":"NAIDU"}]
+{"name":"VENKAT NAGAR","house":"NAIDU"},
+{"name":"VISHRAMPUR","house":"K.K LOGISTIC"},
+{"name":"VISHRAMPUR","house":"DAMRU  TRANSPORT"}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
